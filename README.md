@@ -17,7 +17,7 @@
 [![Behance](https://img.shields.io/badge/Behance-black.svg?logo=Behance&logoColor=white)](https://behance.net/NishulDhakar)  
 [![GitHub](https://img.shields.io/badge/GitHub-black.svg?logo=GitHub&logoColor=white)](https://github.com/NishulDhakar)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-black.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/NishulDhakar)  
-[![CodeWars](https://img.shields.io/badge/CodeWars-black.svg?logo=CodeWars&logoColor=white)](https://www.codewars.com/users/NishulDhakar)  
+[![CodeWars](https://img.shields.io/badge/CodeWars-black.svg?logo=CodeWars&logoColor=white)](https://www.codewars.com/users/nishuldhakar)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-black.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/NishulDhakar)  
 
 
