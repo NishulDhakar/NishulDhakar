@@ -1,6 +1,6 @@
 - # Hi there 👋,  I'm Niahul Dhakar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## 💫 About Me:
+## 💫 About Me: 
 > Full Name: Nishul Dhakar <br/>
 > From: India <br/>
 > Age: 21 <br/>
