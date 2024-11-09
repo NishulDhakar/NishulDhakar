@@ -4,8 +4,8 @@
 > Full Name: Nishul Dhakar <br/>
 > From: India <br/>
 > Age: 21 <br/>
-> Profession: Student <br/>
-> Hobbies: Coding, ~~Gaming~~, Reading <br/>
+> Profession: Student  <br/>
+> Hobbies: Coding, ~~Gaming~~, Reading , Chess <br/>
 > Favourite Editor: GoLand, PyCharm (JetBrains) <br/>
 
 ## 🌐 Socials:
