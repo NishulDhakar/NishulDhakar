@@ -1,61 +1,95 @@
-# Hi there 👋, I'm Nishul Dhakar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+a+Student+Developer;I+Love+Coding!&center=true&width=380&height=45">
+  
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Nishul Dhakar
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Blockchain+Enthusiast;Web3.0+Explorer)](https://git.io/typing-svg)
+
 </div>
 
-## 💫 About Me:
-```python
-class NishulDhakar:
-    def __init__(self):
-        self.name = "Nishul Dhakar"
-        self.location = "India 🇮🇳"
-        self.age = 21
-        self.profession = "Student"
-        self.hobbies = ["Coding", "Reading", "Chess"]
-        self.favourite_editors = ["GoLand", "PyCharm"]
+## 👨‍💻 About Me
+```javascript
+const nishul = {
+    role: "Full Stack Developer",
+    location: "India",
+    age: 21,
+    currentStatus: "Student",
+    passions: ["Web Development", "Blockchain", "Web3.0"],
+    technologies: {
+        frontend: ["HTML5", "CSS3", "JavaScript", "React"],
+        styling: ["Bootstrap", "Tailwind CSS", "SASS"],
+        backend: ["Node.js", "Express.js", "Spring Boot"],
+        databases: ["MySQL", "PostgreSQL", "MongoDB"],
+        tools: ["Git", "Docker", "VS Code", "PyCharm", "GoLand"]
+    },
+    currentlyLearning: ["Web3.0", "Smart Contracts", "DApps"],
+    funFact: "I turn coffee into code ☕"
+};
 ```
 
-## 🚀 What I'm up to:
-- 🎓 Currently studying and exploring new technologies
-- 💻 Working on HTML projects
-- 📚 Learning and growing every day
-- ♟️ Always up for a game of chess
+## 🚀 Tech Universe 
 
-## 🛠️ Tech Stack:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GoLand](https://img.shields.io/badge/-GoLand-000000?style=flat-square&logo=goland&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+<div align="center">
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishulDhakar&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishulDhakar&theme=radical" alt="GitHub Streak" />
-</p>
+### Styling & Design
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 💭 Quote of the Day:
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-## 🤝 Let's Connect:
-<p align="center">
-  <a href="https://github.com/NishulDhakar">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-</p>
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NishulDhakar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishulDhakar&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishulDhakar&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+## 🌐 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NishulDhakar)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NishulDhakar)
+
+</div>
+
+## 💭 Daily Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</div>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NishulDhakar&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
 
-<!-- Fun Easter Egg: Try highlighting the text below! -->
-<p align="center">
-  <span style="color: #ffffff00">Keep coding, keep learning! 🚀</span>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NishulDhakar&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center">
+  
+### "Building digital experiences, one line of code at a time." 🚀
+
+</div>
