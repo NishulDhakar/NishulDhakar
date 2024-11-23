@@ -1,39 +1,61 @@
-- # Hi there 👋,  I'm Nishul Dhakar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there 👋, I'm Nishul Dhakar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## 💫 About Me: 
-> Full Name: Nishul Dhakar <br/>
-> From: India <br/>
-> Age: 21 <br/>
-> Profession: Student  <br/>
-> Hobbies: Coding, ~~Gaming~~, Reading , Chess <br/>
-> Favourite Editor: GoLand, PyCharm (JetBrains) <br/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+a+Student+Developer;I+Love+Coding!&center=true&width=380&height=45">
+</div>
 
-## 🌐 Socials:
+## 💫 About Me:
+```python
+class NishulDhakar:
+    def __init__(self):
+        self.name = "Nishul Dhakar"
+        self.location = "India 🇮🇳"
+        self.age = 21
+        self.profession = "Student"
+        self.hobbies = ["Coding", "Reading", "Chess"]
+        self.favourite_editors = ["GoLand", "PyCharm"]
+```
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NishulDhakar)  
-[![Telegram](https://img.shields.io/badge/Telegram-black.svg?logo=Telegram&logoColor=white)](https://t.me/nishuldhakar)  
-[![Instagram](https://img.shields.io/badge/Instagram-black.svg?logo=Instagram&logoColor=white)](https://instagram.com/NishulDhakar)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in/NishulDhakar)  
-[![Behance](https://img.shields.io/badge/Behance-black.svg?logo=Behance&logoColor=white)](https://behance.net/NishulDhakar)  
-[![GitHub](https://img.shields.io/badge/GitHub-black.svg?logo=GitHub&logoColor=white)](https://github.com/NishulDhakar)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-black.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/NishulDhakar)  
-[![CodeWars](https://img.shields.io/badge/CodeWars-black.svg?logo=CodeWars&logoColor=white)](https://www.codewars.com/users/nishuldhakar)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-black.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/NishulDhakar)  
+## 🚀 What I'm up to:
+- 🎓 Currently studying and exploring new technologies
+- 💻 Working on HTML projects
+- 📚 Learning and growing every day
+- ♟️ Always up for a game of chess
 
+## 🛠️ Tech Stack:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GoLand](https://img.shields.io/badge/-GoLand-000000?style=flat-square&logo=goland&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NishulDhakar&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nishuldhakar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nishuldhakar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishuldhakar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishulDhakar&theme=radical" alt="GitHub Streak" />
+</p>
 
-### ✍️ Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💭 Quote of the Day:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
 
-### 🔝 Top Contributed Repo: 
-![](https://github-contributor-stats.vercel.app/api?username=Nishuldhakar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🤝 Let's Connect:
+<p align="center">
+  <a href="https://github.com/NishulDhakar">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nishuldhakar&icon=10&color=13)](https://github.com/Nishuldhakar)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NishulDhakar&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
+
+<!-- Fun Easter Egg: Try highlighting the text below! -->
+<p align="center">
+  <span style="color: #ffffff00">Keep coding, keep learning! 🚀</span>
+</p>
