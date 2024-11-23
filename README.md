@@ -1,6 +1,6 @@
 # Hi there 👋 I'm **Nishul Dhakar**
 
-**🛠️ Full Stack Developer | Blockchain Enthusiast**
+**🛠️ Full Stack Developer**
 
 ## 💫 About Me:
 - 🏡 **From:** India
@@ -16,8 +16,6 @@
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NishulDhakar)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NishulDhakar)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/NishulDhakar)
-
 ---
 
 ## 💻 Tech Stack
