@@ -1,4 +1,4 @@
-# Hi there 👋 I'm **Nishul**
+# Hi there 👋 I'm **Nishu Dhakarl**
 
 **🛠️ Full Stack Developer**
 
