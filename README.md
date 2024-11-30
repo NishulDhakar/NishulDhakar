@@ -40,9 +40,18 @@
 
 ---
 
-## 🔥 Language Usage
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishulDhakar&theme=dark&hide_border=false&layout=compact" height="180" width="400"> | <img src="https://github-contributor-stats.vercel.app/api?username=NishulDhakar&limit=5&theme=dark&combine_all_yearly_contributions=true" height="180" width="400"> |
-|:--:|:--:|
+## 🚀 Programming Languages & Contributions
+
+### 📊 Language Breakdown
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishulDhakar&theme=radical&hide_border=false&layout=compact&langs_count=10&exclude_repo=college-work,university-projects)
+
+### 💡 Contribution Insights
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=NishulDhakar&limit=5&theme=radical&combine_all_yearly_contributions=true&show_icons=true)
+
+### 🔍 Additional Details
+- **Most Used Languages**: Includes primary programming languages and frameworks
+- **Contribution Highlights**: Showcases top repositories and yearly contribution trends
+- **Themes**: Dark/radical theme for enhanced readability
 
 ---
 
