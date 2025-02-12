@@ -2,7 +2,7 @@
 
 **🛠️ Full Stack Developer**
 
-## 💫 About:
+## 💫 About me:
 - 🏡 **From:** India
 - 💻 **Hobbies:** Building DApps, Contributing to Open Source
 - 🎓 **Age:** 21
