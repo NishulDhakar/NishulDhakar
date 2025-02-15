@@ -32,8 +32,8 @@ Passionate about building scalable web applications and exploring blockchain tec
 
 ## 📫 Get in Touch
 - 💼 Open for collaborations on innovative web and blockchain projects
-- 📧 Email: [nishuldhakar.se@gmail.com]
-- 🌐 Portfolio: [nishul.com]
+- 📧 Email: nishuldhakar.se@gmail.com
+- 🌐 Portfolio: working on it...
 
 ---
 <div align="center">
