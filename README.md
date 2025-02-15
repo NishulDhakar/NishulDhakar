@@ -30,22 +30,10 @@ Passionate about building scalable web applications and exploring blockchain tec
 ## 📈 GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=NishulDhakar&color=brightgreen&style=flat-square)
 
-## 🌟 Featured Projects
-<!-- Add 2-3 of your best projects here -->
-1. **[Project Name]**
-   - Brief description
-   - Tech stack used
-   - Link to repository/demo
-
-2. **[Project Name]**
-   - Brief description
-   - Tech stack used
-   - Link to repository/demo
-
 ## 📫 Get in Touch
 - 💼 Open for collaborations on innovative web and blockchain projects
-- 📧 Email: [Your professional email]
-- 🌐 Portfolio: [Your portfolio website]
+- 📧 Email: [nishuldhakar.se@gmail.com]
+- 🌐 Portfolio: [nishul.com]
 
 ---
 <div align="center">
