@@ -1,14 +1,6 @@
 # Hi there 👋 I'm **Nishul Dhakar**
 
-**🛠️ Full-Stack Developer | Web3 Enthusiast**
-
-## 💫 About Me  
-- 🎓 **B.Tech Student | 21 y/o**  
-- 💻 **Building:** Open Source Projects  
-- 🌱 **Learning:** Smart Contracts, Web3  
-- ❤️ **Favorite Tools:** VSCode, WebStorm  
-
----  
+**🛠️ Full-Stack Developer | Web3 Enthusiast** 
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NishulDhakar)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NishulDhakar)  
