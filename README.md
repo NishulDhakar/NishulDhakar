@@ -4,7 +4,9 @@
 ## About Me
 I'm a passionate Full-Stack Developer dedicated to building scalable and efficient web applications. I love solving complex problems and crafting seamless user experiences. With expertise in both frontend and backend development, I specialize in modern technologies to create high-performance solutions.
 
-🔹 Currently working on cutting-edge web projects using React, Next.js, and Node.js.🔹 Exploring cloud computing and DevOps to enhance scalability and deployment efficiency.🔹 Open to collaboration on innovative web projects and problem-solving challenges.
+🔹 Currently working on cutting-edge web projects using React, Next.js, and Node.js.
+🔹 Exploring cloud computing and DevOps to enhance scalability and deployment efficiency.
+🔹 Open to collaboration on innovative web projects and problem-solving challenges.
 
 ## 🔗 Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NishulDhakar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NishulDhakar)  
