@@ -32,7 +32,7 @@ I'm a passionate Full-Stack Developer dedicated to building scalable and efficie
 ## 📫 Contact
 - 💼 Available for collaborations on innovative web and blockchain projects
 - 📧 nishuldhakar.se@gmail.com
-- 🌐 Portfolio: *Coming soon*
+- 🌐 Portfolio: *![Nishul.dev](https://project-folio-chi.vercel.app/)*
 
 ---
 
