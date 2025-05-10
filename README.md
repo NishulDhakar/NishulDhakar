@@ -17,7 +17,7 @@ Nishul 👋</a></h1>
 
 <p align="center">
   <a href="https://x.com/nishuldhakar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=light" alt="X (Twitter)" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/X_logo_2023.svg" alt="X" width="40" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/nishul-dhakar/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" />
