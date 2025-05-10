@@ -7,23 +7,19 @@ Nishul 👋</a></h1>
 
 📫 More about me at <a href="https://nishuldhakar.com/" target="_blank">nishuldhakar.com</a>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-[![](https://github-readme-streak-stats.herokuapp.com/?user=NishulDhakar&hide_border=true)](https://github.com/NishulDhakar)
-</div> -->
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishulDhakar&hide_border=true&theme=default" alt="Nishul's GitHub streak stats" />
+</p>
 
 <p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,github,vscode&theme=light&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,github,vscode&theme=light&perline=9" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/NishulDhakar">
+    <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" />
   </a>
-</p> 
-
-
-<p align="center">
- <div align="center" class="icons-social" style="margin-left: 10px;">
-        <a href="https://github.com/NishulDhakar">
-		<img src="https://skillicons.dev/icons?i=github&theme=light"></a>
-		<a href="https://www.linkedin.com/in/nishul-dhakar/">
-			<img src="https://skillicons.dev/icons?i=linkedin&theme=light"></a>
-</div>
-</p> 
+  <a href="https://www.linkedin.com/in/nishul-dhakar/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" />
+  </a>
+</p>
