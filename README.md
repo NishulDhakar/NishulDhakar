@@ -1,42 +1,38 @@
-# Nishul Dhakar
-> Full-Stack Developer | Tech Enthusiast
+<h1 align="center">Hi, I'm <a href="https://nishuldhakar.com/" target="_blank">
+Nishul 👋</a></h1>
 
-## About Me
-I'm a passionate Full-Stack Developer dedicated to building scalable and efficient web applications. I love solving complex problems and crafting seamless user experiences. With expertise in both frontend and backend development, I specialize in modern technologies to create high-performance solutions.
+🏋️ I’m a full-stack developer passionate about building AI-powered platforms, productivity tools, and creative web apps.
 
-- 🔭 **Currently working on:** Scalable full-stack projects  
-- 🎯 **Focused on:** Performance, maintainability, and best practices  
-- ⚡ **Tech Stack:** React, Next.js, TypeScript, Node.js, Express, MongoDB, PostgreSQL  
+🌱 I'm currently working on projects involving fitness platforms, AI assistants, image-based food and fashion analyzers, and spaced repetition tools.
 
-## 🔗 Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NishulDhakar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NishulDhakar)  
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27530377/nishul-dhakar) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@nishuldhakar) [![Hashnode](https://img.shields.io/badge/Hashnode-%232962FF.svg?logo=hashnode&logoColor=white)](https://hashnode.com/@Nishuldhakar) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Nishuldhakar/) [![CodeChef](https://img.shields.io/badge/CodeChef-%23007ACC.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/nishuldhakar) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/nishuldhakar/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/nishuldhakar) [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/nishuldhakar) [![Dev.to](https://img.shields.io/badge/Dev.to-%23000000.svg?logo=dev.to&logoColor=white)](https://dev.to/nishuldhakar) [![Kaggle](https://img.shields.io/badge/Kaggle-%23020F4B.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/nishuldhakar) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/1285059233439678465)  
+🚀 Actively learning and building with React, Next.js, Node.js, TypeScript, Tailwind CSS, MongoDB, and AI/ML.
 
+💡 My goal: To become a top software engineer, achieve financial freedom, and build meaningful tech products.
 
-### 🌟 Programming Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+📫 More about me at <a href="https://nishuldhakar.com/" target="_blank">nishuldhakar.com</a>
 
-### ⚛️ Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<!-- 
+<div style="display: flex; align-items: center; justify-content: center;">
+[![](https://github-readme-streak-stats.herokuapp.com/?user=NishulDhakar&hide_border=true)](https://github.com/NishulDhakar)
+</div> -->
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- 
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,python,java,git,github,vscode&theme=light&perline=9" />
+  </a>
+</p> -->
 
-### ⚙️ DevOps & Tools
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 GitHub Analytics
-![Profile Views](https://komarev.com/ghpvc/?username=NishulDhakar&color=brightgreen&style=flat-square)
-
-## 📫 Contact
-- 💼 Available for collaborations on innovative web and blockchain projects
-- 📧 nishuldhakar.se@gmail.com
-🌐 Portfolio: [Nishul.dev](https://project-folio-chi.vercel.app/)
-
-
----
-
-<div align="center">
-    <i>Crafting elegant solutions to complex problems.</i>
+<!-- 
+<p align="center">
+ <div align="center" class="icons-social" style="margin-left: 10px;">
+        <a href="https://github.com/NishulDhakar">
+		<img src="https://skillicons.dev/icons?i=github&theme=light"></a>
+		<a href="https://www.linkedin.com/in/nishul-dhakar/">
+			<img src="https://skillicons.dev/icons?i=linkedin&theme=light"></a>
+        <a href="https://www.instagram.com/">
+			<img src="https://skillicons.dev/icons?i=instagram&theme=light"></a>
+		<a href="https://twitter.com/">
+			<img src="https://skillicons.dev/icons?i=twitter&theme=light" ></a>
 </div>
+</p> -->
