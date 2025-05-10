@@ -16,10 +16,10 @@ Nishul 👋</a></h1>
 </p> -->
 
 <p align="center">
-  <a href="https://x.com/nishuldhakar" target="_blank" style="margin-right: 15px;">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=light" alt="X" width="48" />
-  </a>
+  <a href="https://x.com/nishuldhakar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=light" alt="X" /><br/>X
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nishul-dhakar/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" width="48" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" /><br/>LinkedIn
   </a>
 </p>
