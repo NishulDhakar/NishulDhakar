@@ -7,13 +7,13 @@ Nishul 👋</a></h1>
 
 📫 More about me at <a href="https://nishuldhakar.com/" target="_blank">nishuldhakar.com</a>
 
-<p align="center">
+<!--  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishulDhakar&hide_border=true&theme=default" alt="Nishul's GitHub streak stats" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,github,vscode&theme=light&perline=9" alt="Tech Stack" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/NishulDhakar">
