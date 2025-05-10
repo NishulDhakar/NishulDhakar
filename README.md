@@ -11,14 +11,14 @@ Nishul 👋</a></h1>
 [![](https://github-readme-streak-stats.herokuapp.com/?user=NishulDhakar&hide_border=true)](https://github.com/NishulDhakar)
 </div> -->
 
-<!-- 
+
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,github,vscode&theme=light&perline=9" />
   </a>
-</p> -->
+</p> 
 
-<!-- 
+
 <p align="center">
  <div align="center" class="icons-social" style="margin-left: 10px;">
         <a href="https://github.com/NishulDhakar">
