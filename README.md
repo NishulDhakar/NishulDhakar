@@ -7,7 +7,6 @@ Nishul 👋</a></h1>
 
 📫 More about me at <a href="https://nishuldhakar.com/" target="_blank">nishuldhakar.com</a>
 
-<!-- 
 <div style="display: flex; align-items: center; justify-content: center;">
 [![](https://github-readme-streak-stats.herokuapp.com/?user=NishulDhakar&hide_border=true)](https://github.com/NishulDhakar)
 </div> -->
@@ -27,4 +26,4 @@ Nishul 👋</a></h1>
 		<a href="https://www.linkedin.com/in/nishul-dhakar/">
 			<img src="https://skillicons.dev/icons?i=linkedin&theme=light"></a>
 </div>
-</p> -->
+</p> 
