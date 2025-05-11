@@ -5,7 +5,7 @@ Nishul 👋</a></h1>
 
 🌐 I build modern, responsive, and scalable web applications using clean code and user-centered design.
 
-📫 More about me at <a href="https://nishuldhakar.com/" target="_blank">nishuldhakar.com</a>
+<!-- 📫 More about me at <a href="https://nishuldhakar.com/" target="_blank">nishuldhakar.com</a> -->
 
 <!--  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishulDhakar&hide_border=true&theme=default" alt="Nishul's GitHub streak stats" />
