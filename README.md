@@ -1,18 +1,17 @@
 <h1 align="center">Hi, I'm <a href="https://nishuldhakar.com/" target="_blank">Nishul 👋</a></h1>
 
 <p align="center">
-  <strong>Full-Stack Developer </strong>
+  <strong>Full-Stack Developer</strong>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- I'm a CS student who and full-stack developer.
-- I work with technologies like **React**,**TailwindCSS** **Next.js**, **Node.js**, **TypeScript**, and **MongoDB** to build modern, scalable applications. 
+- I'm a Computer Science student and passionate full-stack developer.
+- I work with technologies like **React**, **Next.js**, **Tailwind CSS**, **Node.js**, **TypeScript**, and **MongoDB**.
 
-<!-- - If you find value in what I create and want to help support my journey, feel free to [sponsor me](#) — it truly means the world. 💙 -->
-
+<!-- - If you find value in what I create and want to support my journey, feel free to [sponsor me](#) — it truly means the world to me. 💙 -->
 
 ---
 
