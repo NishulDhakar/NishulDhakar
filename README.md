@@ -11,10 +11,11 @@ Nishul 👋</a></h1>
 </p> -->
 ```
 
-<img src="https://komarev.com/ghpvc/?username=NishulDhakar&style=for-the-badge&color=36BCF7&labelColor=1F222E" />
-
 ## Get in touch
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=vercel)](https://nishuldhakar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nishuldhakar)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/nishuldhakar)
+
+
+<img src="https://komarev.com/ghpvc/?username=NishulDhakar&style=for-the-badge&color=36BCF7&labelColor=1F222E" />
 
