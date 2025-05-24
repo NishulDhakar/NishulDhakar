@@ -17,4 +17,8 @@ console.log("Thanks for stopping by! 👋");
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NishulDhakar&color=blueviolet&style=flat-square)
 
-**Connect:** [Portfolio](https://nishuldhakar.com) • [LinkedIn](https://linkedin.com/in/nishul-dhakar) • [X](https://x.com/nishuldhakar)
+## Get in touch
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=vercel)](https://nishuldhakar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nishuldhakar)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/nishuldhakar)
+
