@@ -1,6 +1,7 @@
  <h1 align="center">Hi, I'm <a href="https://nishuldhakar.com/" target="_blank">
 Nishul 👋</a></h1>
 💻 I’m a full-stack developer skilled in React, Next.js, Node.js, TypeScript, and MongoDB.
+
 🌐 I build modern, responsive, and scalable web applications using clean code and user-centered design.
 
 </div>
