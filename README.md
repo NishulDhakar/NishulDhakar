@@ -4,16 +4,12 @@
   <strong>Full-Stack Developer</strong>
 </p>
 
----
-
 ## 🚀 About Me
 
-- I'm a Computer Science student and passionate full-stack developer.
+- I'm a Computer Science student and full-stack developer.
 - I work with technologies like **React**, **Next.js**, **Tailwind CSS**, **Node.js**, **TypeScript**, and **MongoDB**.
 
 <!-- - If you find value in what I create and want to support my journey, feel free to [sponsor me](#) — it truly means the world to me. 💙 -->
-
----
 
 <div align="center">
 
