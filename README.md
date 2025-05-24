@@ -4,8 +4,6 @@
   <strong>Full-Stack Developer</strong> • Building digital experiences that matter
 </p>
 
-<div align="center">
-
 💻 Skilled in **React**, **Next.js**, **Node.js**, **TypeScript**, and **MongoDB**  
 🌐 Creating modern, scalable web applications with clean code and thoughtful design  
 🚀 Passionate about turning ideas into impactful digital solutions
