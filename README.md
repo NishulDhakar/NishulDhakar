@@ -12,6 +12,7 @@
 
 </div>
 
+<!--
 ---
 
 <p align="center">
@@ -22,7 +23,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishulDhakar&hide_border=true&theme=dark&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub streak stats" />
 </p>
 
----
+--- 
+-->
 
 <div align="center">
 
