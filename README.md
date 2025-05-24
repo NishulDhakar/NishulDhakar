@@ -1,12 +1,7 @@
-<h1 align="center">Hi, I'm <a href="https://nishuldhakar.com/" target="_blank">Nishul 👋</a></h1>
-
-<p align="center">
-  <strong>Full-Stack Developer</strong> • Building digital experiences that matter
-</p>
-
-💻 Skilled in **React**, **Next.js**, **Node.js**, **TypeScript**, and **MongoDB**  
-🌐 Creating modern, scalable web applications with clean code and thoughtful design  
-🚀 Passionate about turning ideas into impactful digital solutions
+ <h1 align="center">Hi, I'm <a href="https://nishuldhakar.com/" target="_blank">
+Nishul 👋</a></h1>
+💻 I’m a full-stack developer skilled in React, Next.js, Node.js, TypeScript, and MongoDB.
+🌐 I build modern, responsive, and scalable web applications using clean code and user-centered design.
 
 </div>
 
