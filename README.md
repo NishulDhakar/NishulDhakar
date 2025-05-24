@@ -1,28 +1,19 @@
-# Hi there, I'm Nishul Dhakar!
-**Full-Stack Developer | Modern Web Enthusiast**
-
-## What I'm up to
-- 🚀 Building the next generation of web apps with **React**, **Next.js**, and **TypeScript**
-- 💡 Turning coffee into code and ideas into digital reality
-- 🎯 Currently diving deep into **serverless architecture** and **AI integrations**
-- 🌟 Open to collaborating on innovative projects that make a difference
-- 📚 Learning something new every day (currently exploring **Three.js** and **Web3**)
-
-## Code Stats
-![Nishul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishulDhakar&show_icons=true&theme=dark)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishulDhakar&layout=compact&theme=dark)
-
-## Currently jamming to
-```javascript
-const currentlyPlaying = {
-  music: "Lo-fi beats while coding 🎵",
-  beverage: "Third cup of coffee ☕",
-  mood: "Building something awesome 🔥",
-  status: "In the zone 💻"
-};
-```
-
-## Get in touch
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=vercel)](https://nishuldhakar.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nishul-dhakar/)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/nishuldhakar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/NishulDhakar)
+<h1 align="center">Hi, I'm <a href="https://nishuldhakar.com/" target="_blank">
+Nishul 👋</a></h1>
+💻 I’m a full-stack developer skilled in React, Next.js, Node.js, TypeScript, and MongoDB.
+🌐 I build modern, responsive, and scalable web applications using clean code and user-centered design.
+<!-- 📫 More about me at <a href="https://nishuldhakar.com/" target="_blank">nishuldhakar.com</a> -->
+<!--  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishulDhakar&hide_border=true&theme=default" alt="Nishul's GitHub streak stats" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,github,vscode&theme=light&perline=9" alt="Tech Stack" />
+</p> -->
+<!-- <p align="center">
+  <a href="https://x.com/nishuldhakar" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.linkedin.com/in/nishul-dhakar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p> -->
