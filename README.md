@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://nishuldhakar.com/" target="_blank">Nishul 👋</a></h1>
+<h1 align="center">Hi, I'm <a href="https://nishul.dev/" target="_blank">Nishul 👋</a></h1>
 
 <p align="center">
   <strong>Full-Stack Developer</strong>
