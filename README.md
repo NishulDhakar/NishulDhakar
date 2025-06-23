@@ -1,10 +1,10 @@
 # Hi there 👋 I'm **Nishul Dhakar**  
 
-**🛠️ Tech Enthusiast | Full-Stack Web Developer**  
+**🛠️ CS student | Full-Stack Web Developer**  
 
 ## 💫 About Me:
-- 🏡 **From:** Bareli, Madhya Pradesh, India  
-- 💻 **Hobbies:** Coding, Trading, Fitness, Reading  
+- 🏡 **From:** India  
+- 💻 **Hobbies:** Coding, Reading, Chess
 - 🎓 **Age:** 21  
 - 🧑‍🎓 **Profession:** Computer Science Student & Freelance Developer  
 - ❤️ **Favourite Editor:** VS Code  
@@ -12,11 +12,19 @@
 ---
 
 ## 🌐 Socials  
-[LinkedIn](https://www.linkedin.com/in/nishuldhakar) | [Twitter](https://x.com/nishuldhakar) | [Portfolio](https://nishul.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishuldhakar) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/nishuldhakar) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://nishul.dev/)
 
 ---
 
 ## 💻 Tech Stack  
-React, Next.js, TypeScript, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB, MySQL, Git, AWS, Docker, Vercel
+**Languages & Frameworks:**  
+React, Next.js, TypeScript, JavaScript, Tailwind CSS  
+
+**Backend & Databases:**  
+Node.js, Express.js, MongoDB
+
+**DevOps & Cloud:**  
+Git, Docker, Vercel  
 
 ---
+
