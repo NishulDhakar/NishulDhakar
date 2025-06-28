@@ -8,8 +8,7 @@ I'm an undergraduate student in Computer Science from India with a strong intere
 I enjoy building practical and impactful software projects and constantly seek new opportunities to learn and contribute.
 
 - Skilled in frontend and backend technologies.
-<!-- - Actively contributing to open source and freelance projects. -->
-- Focused on DSA and placement preparation.
+<!-- - Actively contributing to open source and freelance projects. --> - Focused on DSA and placement preparation.
 - Interested in creating scalable and meaningful tech solutions.
 
 <!-- ---
