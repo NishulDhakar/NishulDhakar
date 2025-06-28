@@ -12,14 +12,14 @@ I enjoy building practical and impactful software projects and constantly seek n
 - Focused on DSA and placement preparation.
 - Interested in creating scalable and meaningful tech solutions.
 
----
+<!-- ---
 
 ## Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS, Next.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, MySQL, PostgreSQL
-- **Others:** Git, GitHub, REST 
+- **Others:** Git, GitHub, REST  -->
 
 
 ## 🌐 Socials  
