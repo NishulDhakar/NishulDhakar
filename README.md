@@ -1,30 +1,14 @@
-# Hello 🙏🏽
+# Hey, I'm Nishul
 
-#### I'm a Full-Stack developer who builds web and mobile applications.
+Developer building with modern web technologies and AI
 
-- 🏢 I build applications using **TypeScript**, **React**, **Next.js**, **Bun**, and **PostgreSQL**
-- 💹 I’m interested in **FinTech** and enjoy building things related to **finance, trading, and data-driven systems**
-- 🤖 I’m learning and experimenting with **GenAI, RAG, and AI Agents** to add smarter features to real products
-- 💡 I care a lot about **clean UI, smooth interactions, and good user experience**
-- 🧠 I like breaking down problems step by step until they actually make sense
-- 💬 You can talk to me about **JavaScript**, **TypeScript**, **React**, **Next.js**, **backend systems**, **FinTech**, and **AI**
-- 🌱 I’m always learning and improving by building things
-- ❤️ I enjoy collaborating with others and contributing to open-source projects
-- 📫 Reach me: **https://x.com/NishulDhakar**
-- 🔗 Personal Website: **https://www.nishul.dev**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+Building full-stack applications with React, Next.js, and TypeScript. Working with modern databases, AI technologies, and creating seamless user experiences with Framer Motion.
 
-<!-- <div>
-  <h4>🏆 GitHub Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nishuldhakar&column=7"/>
-  </a>
-</div>
+## Current Projects
 
-<div>
-  <h4>👨🏻‍💻 GitHub Usage stats</h4>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=nishuldhakar&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishuldhakar&layout=compact" />
-</div> -->
-
+- **Blyn — Cognitive Games** - Web platform helping students and job-seekers prepare for game-based assessment rounds during placement drives.
+- **Job Hunting** - AI-powered job hunting platform
+- **Job Tracker** - Track and apply to jobs daily—keep your applications organized
 
