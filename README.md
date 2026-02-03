@@ -2,14 +2,13 @@
 
 ## About me
 
-- I'm a full stack developer who loves building modern web applications with React, Next.js, and TypeScript, focusing on creating seamless user experiences with clean code and attention to detail.
-- Tech stack isn't my concern, I'm flexible with whatever the project needs, though I prefer modern frameworks and tools like Tailwind CSS, Framer Motion, and AI technologies. I'm always open for new opportunities to learn and grow.
-- If you love what I build and do, then please consider sponsoring me.
+- I build end-to-end products from idea to production. Working across frontend, backend, and AI systems, I take ownership of the entire lifecycle design, build, deploy, and iterate, focused on shipping real results.
+- Tech stack doesn’t scare me — I learn whatever the project needs. I like modern tools, AI, and figuring things out fast… basically a professional problem solver with a keyboard.
 
 
 ## Visitor count
 
-![Visitor Count](https://profile-counter.glitch.me/nishuldhakar/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=nishuldhakar&color=blue)
 
 ## Get in touch
 
