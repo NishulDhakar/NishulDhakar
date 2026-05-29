@@ -46,8 +46,6 @@ Tech stack doesn't scare me. I learn whatever the project needs.
 
 ### Telegram Bots
 
-### Telegram Bots
-
 - [Auto Forward Bot](https://github.com/NishulDhakar/Auto-forward-bot) - Forwards messages across Telegram channels with filters, scheduling, and role-based access
 - [Auto Approve Bot](https://github.com/NishulDhakar/Auto-approve-bot) - Automatically approves join requests for Telegram groups or channels
 - [Auto Reaction Bot](https://github.com/NishulDhakar/Auto-Reaction-Bot) - Reacts to messages with relevant emojis automatically
