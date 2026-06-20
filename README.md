@@ -15,28 +15,18 @@ Tech stack doesn't scare me. I learn whatever the project needs.
 
 ### Products
 
-- [Blync Web](https://github.com/NishulDhakar/BlyncWeb) - Brain games platform for placement prep · 5,000+ users
+- [Blync Web](https://github.com/NishulDhakar/BlyncWeb) - Brain games platform for placement prep · 10,000+ users
 - [ToolScrolling](https://github.com/NishulDhakar/toolscrolling) - Discover developer and design tools with search and filtering
 - [Vizzy](https://github.com/NishulDhakar/Vizzy-v1) - AI creative assistant — chat, image generation, and memory
 - [Simple Invest](https://github.com/NishulDhakar/Simple-Invest) - Investment tracker with real-time stock updates
-- [PostaVid](https://github.com/NishulDhakar/playavid) - Video sharing platform with upload and streaming
-- [Quick Pay](https://github.com/NishulDhakar/QuickPay) - Mock payment app with smooth transaction simulation
-- [DropIthere](https://github.com/NishulDhakar/dropithere) - Organize Twitter threads and YouTube videos into playlists
-- [Job Hunting](https://github.com/NishulDhakar/JobHunting) - Job discovery platform for freshers
 
 
 ### Design & Landing Pages
 
 - [Propsoch](https://github.com/NishulDhakar/propsoch_landingpage) - Real estate SaaS landing page with smooth animations
 - [Hotel Web](https://github.com/NishulDhakar/Hotel-web) - Hotel booking UI
-- [Arc Logistics](https://github.com/NishulDhakar/ARC-logistics) - Logistics management landing page
 - [Business Buddy](https://github.com/NishulDhakar/Business-Buddy-landing) - Product landing page
-- [Brahmand](https://github.com/NishulDhakar/Brahmand) - Space tourism concept page with immersive visuals
-- [BESong](https://github.com/NishulDhakar/BESong-Landingpage) - Bussiness app landing page
-- [Photo Studio](https://github.com/NishulDhakar/photo-studio) - Photo studio landing page
-- [o8m-Labs](https://github.com/NishulDhakar/o8m-Labs) - Tech lab landing page
-- [TransNova](https://github.com/NishulDhakar/TransNova) - Transport agency landing page
-- [Restaurant Template](https://github.com/NishulDhakar/Restaurant-website-template) - Responsive restaurant website template
+
 
 ### Mobile
 
