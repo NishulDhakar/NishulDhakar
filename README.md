@@ -4,13 +4,6 @@ I build end-to-end products from idea to production.
 Working across frontend, backend, and AI systems.  
 Tech stack doesn't scare me. I learn whatever the project needs.
 
-## Skills & Tools
-
-- AI/LLM — LangChain, LangGraph, Groq, Gemini, Whisper, FLUX
-- Backend — Python, FastAPI, Node.js, Next.js
-- Frontend — React, TypeScript, Tailwind CSS
-- Database — Supabase, PostgreSQL, MongoDB, MySQL
-
 ## Projects
 
 ### Products
