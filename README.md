@@ -6,6 +6,12 @@ Tech stack doesn't scare me. I learn whatever the project needs.
 
 ## Projects
 
+### Working on
+
+- [Drova Studio](https://github.com/NishulDhakar/Drova-Studio) - Create videos 10× faster with AI avatars, AI UGC creators & voice cloning
+- [Shell](https://github.com/NishulDhakar/shell) - A minimal Python shell engine built for learning command dispatch and shell behavior.
+
+
 ### Products
 
 - [Blync Web](https://github.com/NishulDhakar/BlyncWeb) - Brain games platform for placement prep · 10,000+ users
@@ -29,6 +35,7 @@ Tech stack doesn't scare me. I learn whatever the project needs.
 
 ### Telegram Bots
 
+- [Bots Store](https://github.com/NishulDhakar/Telegram-Bots-Store) - Access multiple bots in one place. Choose the best one for your use case.
 - [Auto Forward Bot](https://github.com/NishulDhakar/Auto-forward-bot) - Forwards messages across Telegram channels with filters, scheduling, and role-based access
 - [Auto Approve Bot](https://github.com/NishulDhakar/Auto-approve-bot) - Automatically approves join requests for Telegram groups or channels
 - [Auto Reaction Bot](https://github.com/NishulDhakar/Auto-Reaction-Bot) - Reacts to messages with relevant emojis automatically
