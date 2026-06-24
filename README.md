@@ -8,13 +8,14 @@ Tech stack doesn't scare me. I learn whatever the project needs.
 
 ### Working on
 
+- [Blync v2](https://github.com/NishulDhakar/Blync-v2) - Improve your memory, math, concentration and thinking speed! Explore our brain training games.
 - [Drova Studio](https://github.com/NishulDhakar/Drova-Studio) - Create videos 10× faster with AI avatars, AI UGC creators & voice cloning
 - [Shell](https://github.com/NishulDhakar/shell) - A minimal Python shell engine built for learning command dispatch and shell behavior.
 
 
 ### Products
 
-- [Blync Web](https://github.com/NishulDhakar/BlyncWeb) - Brain games platform for placement prep · 10,000+ users
+- [Blync Web](https://github.com/NishulDhakar/BlyncWeb) - Brain games platform for placement prep · 10,000+ users 
 - [ToolScrolling](https://github.com/NishulDhakar/toolscrolling) - Discover developer and design tools with search and filtering
 - [Vizzy](https://github.com/NishulDhakar/Vizzy-v1) - AI creative assistant — chat, image generation, and memory
 - [Simple Invest](https://github.com/NishulDhakar/Simple-Invest) - Investment tracker with real-time stock updates
